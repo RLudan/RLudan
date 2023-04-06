@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RLudan
-- 👀 I’m interested in coding, pentesting and gaming
+- 👀 I’m interested in coding(in python) and redteaming
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on mostly the staff and interested in.
 
